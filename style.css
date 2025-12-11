@@ -117,7 +117,6 @@ input {
 .creditcard svg#cardfront,
 .creditcard svg#cardback {
     width: 100%;
-    -webkit-box-shadow: 1px 5px 6px 0px black;
     border-radius: 22px;
 }
 
